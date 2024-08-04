@@ -12,3 +12,6 @@
 
 To use RenameMaster, install streamlit using pip. Run the app with the streamlit command
 
+You can reach this app from this link:
+https://renamermaster.streamlit.app/
+
